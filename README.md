@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Swathi Muralinathan 👩‍💻</h1>
-<h3 align="center">Crafting Scalable Software | Backend Engineering | Cloud Enthusiast</h3>
+<h3 align="center">Crafting Scalable Software | Full Stack Engineering | Cloud Enthusiast</h3>
 
 ---
 
