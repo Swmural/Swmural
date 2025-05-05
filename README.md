@@ -5,7 +5,7 @@
 
 ## 👩‍💼 Who Am I?
 
-I’m a Full Stack Software Developer with a Master’s in Computer and Information Science from NJIT. I specialize in building robust, cloud-native applications using Python, Django, React, and PostgreSQL. With over 6 years of experience in designing, developing, and deploying scalable backend systems, I thrive on turning complex challenges into elegant solutions.
+I’m a Full Stack Software Developer with a Master’s in Computer and Information Science from NJIT. I specialize in building robust, cloud-native applications using Python, Django, React, and PostgreSQL. Experience in designing, developing, and deploying scalable backend systems, I thrive on turning complex challenges into elegant solutions.
 
 - 🌱 Currently exploring: **Kafka**, **Generative AI**, and **Kubernetes**
 - 💬 Ask me about: **Backend Development**, **RESTful APIs**, **Cloud Architecture**, **AI Integrations**, and **Vector DBs**
